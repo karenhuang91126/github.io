@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"萼婆婆 B2A45_HTML5 Canvas_atlas_1", frames: [[0,0,683,681],[685,0,512,518],[1199,373,429,376],[1665,0,363,425],[1199,0,464,371]]}
+		{name:"萼婆婆 B2A45_atlas_1", frames: [[0,0,683,681],[685,0,512,518],[1199,373,429,376],[1665,0,363,425],[1199,0,464,371]]}
 ];
 
 
@@ -28,35 +28,35 @@ lib.ssMetadata = [
 
 
 (lib.圖層1 = function() {
-	this.initialize(ss["萼婆婆 B2A45_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 B2A45_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層3 = function() {
-	this.initialize(ss["萼婆婆 B2A45_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 B2A45_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層4 = function() {
-	this.initialize(ss["萼婆婆 B2A45_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 B2A45_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層5 = function() {
-	this.initialize(ss["萼婆婆 B2A45_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 B2A45_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層6 = function() {
-	this.initialize(ss["萼婆婆 B2A45_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 B2A45_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -238,7 +238,7 @@ if (reversed == null) { reversed = false; }
 
 
 // stage content:
-(lib.萼婆婆B2A45_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.萼婆婆B2A45 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -423,7 +423,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/萼婆婆 B2A45_HTML5 Canvas_atlas_1.png", id:"萼婆婆 B2A45_HTML5 Canvas_atlas_1"}
+		{src:"images/萼婆婆 B2A45_atlas_1.png", id:"萼婆婆 B2A45_atlas_1"}
 	],
 	preloads: []
 };
